@@ -21,11 +21,9 @@ public class Main {
 		System.out.println();
 		
 		System.out.println("Sorted Array:");
-<<<<<<< HEAD
+
 		//DONE: sort the array and print out its contents
-		System.out.println(InsertionSort.insertionSort(unsortedArray));
->>>>>>> Implemented insertion sort
-		
+		System.out.println(InsertionSort.insertionSort(unsortedArray));		
 	}
 
 }
